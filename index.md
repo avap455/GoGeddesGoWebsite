@@ -6,18 +6,23 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Go Geddes Go is a vdieo game inspired by the joy as well as trials and tribulations of QEA. 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Go Geddes Go
+# You're neat-o!
 
-A QEA-inspired Video Game.
+In this game you are a Neato Robot. Your goal is to traverse the trecherous tabletop to reach the coveted A+ grade.
+But the journey will not be easy. The road is riddled with dangerous monsters called MATLABs that you must avoid.
+The game ends when you reach your goal...or die trying.
+
+Oh, and one last thing. You're not alone. You must race John Geddes on his boat to the finish line 
+and get your grade before he gets to Scotland. Good luck!
 
 ## Header 2
 
-> This is a blockquote following a header.
->
+> This is a block quote following a header.
+> 
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
