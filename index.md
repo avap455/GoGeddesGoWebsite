@@ -50,6 +50,7 @@ and get your grade before he gets to Scotland. Good luck!
 ## Our Project Through the Ages
 
 ### Our Initial Idea
+![IMG-7741](https://user-images.githubusercontent.com/123430221/235363009-a390030a-3b29-4761-ae0d-251247278038.jpg)
 
 ### Our Revised Design
 ![MidwayPoint1](https://user-images.githubusercontent.com/123430221/235361879-d1fef647-0eba-473a-a8ce-c74f0584c5f5.jpg)
@@ -57,7 +58,7 @@ and get your grade before he gets to Scotland. Good luck!
 ![MidwayPoint3](https://user-images.githubusercontent.com/123430221/235361897-f979959e-f3f2-454a-872a-f236e967026a.jpg)
 
 ### Our Final Product
-
+![Stage3image](https://user-images.githubusercontent.com/123430221/235363047-342e6476-e93c-44b4-af34-996fa666fc16.jpg)
 
 ## External Resources
 
