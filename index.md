@@ -10,6 +10,16 @@ Go Geddes Go is a vdieo game inspired by the joy as well as trials and tribulati
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+Directions:
+The big idea or goal of the project
+Unique features of your project
+Screenshots or demos of your project
+Installation instructions (or link to the relevant portion of the README)
+Download links for your project
+A link to your project’s GitHub page
+Information about you (to the extent you are comfortable)
+Attribution for any external resources you used
+
 # You're neat-o!
 
 In this game you are a Neato Robot. Your goal is to traverse the trecherous tabletop to reach the coveted A+ grade.
