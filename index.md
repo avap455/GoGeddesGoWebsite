@@ -6,26 +6,7 @@ layout: default
 
 Go Geddes Go is a video game inspired by the joy as well as trials and tribulations of QEA. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-Directions:
-
-X The big idea or goal of the project
-
-X Unique features of your project
-
-X Screenshots or demos of your project
-
-Installation instructions (or link to the relevant portion of the README)
-
-Download links for your project
-
-X A link to your project’s GitHub page
-
-X Information about you (to the extent you are comfortable)
-
-X Attribution for any external resources you used
-
+A README, or a file with information about your project here.
 
 # You're neat-o!
 
