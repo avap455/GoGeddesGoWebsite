@@ -9,6 +9,7 @@ Go Geddes Go is a video game inspired by the joy as well as trials and tribulati
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 Directions:
+
 X The big idea or goal of the project
 
 X Unique features of your project
@@ -25,15 +26,6 @@ X Information about you (to the extent you are comfortable)
 
 X Attribution for any external resources you used
 
-# What's the big idea?
-
-Quantitative Engineering Analysis, or QEA, is the main engineering math course that first-year students at Olin College have been enrolled in this past year. The goal of our project was to inspire joy in our fellow classmates to help combat QEA-related stress. We aimed to do this by taking the Neato, which is the robot we have been working with in QEA for so long, and putting it into a game for first-year students to play and enjoy. The unique features of this game include racing a John B Geddes boat to the finish line while avoiding small but fast obstacles, being able to control the game using the arrow keys, and a cheerful background design.
-
-
-## Our Findings
-
-Having introduced several students to this game, we have found that we were successful in our mission of inspiring joy. Students reportedly enjoy both the gameplay aspect and the QEA-related nature of this project.
-
 
 # You're neat-o!
 
@@ -43,6 +35,16 @@ The game ends when you reach your goal...or die trying.
 
 Oh, and one last thing. You're not alone. You must race John Geddes on his boat to the finish line 
 and get your grade before he gets to Scotland. Good luck!
+
+
+# What's the big idea?
+
+Quantitative Engineering Analysis, or QEA, is the main engineering math course that first-year students at Olin College have been enrolled in this past year. The goal of our project was to inspire joy in our fellow classmates to help combat QEA-related stress. We aimed to do this by taking the Neato, which is the robot we have been working with in QEA for so long, and putting it into a game for first-year students to play and enjoy. The unique features of this game include racing a John B Geddes boat to the finish line while avoiding small but fast obstacles, being able to control the game using the arrow keys, and a cheerful background design.
+
+
+## Our Findings
+
+Having introduced several students to this game, we have found that we were successful in our mission of inspiring joy. Students reportedly enjoy both the gameplay aspect and the QEA-related nature of this project.
 
 
 ## Our Project Through the Ages
