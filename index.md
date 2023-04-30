@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://github.com/olincollege/GoGeddesGo).
+[Link to the GitHub page](https://github.com/olincollege/GoGeddesGo).
 
 Go Geddes Go is a video game inspired by the joy as well as trials and tribulations of QEA. 
 
