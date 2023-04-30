@@ -12,12 +12,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Directions:
 The big idea or goal of the project
+
 Unique features of your project
+
 Screenshots or demos of your project
+
 Installation instructions (or link to the relevant portion of the README)
+
 Download links for your project
-A link to your project’s GitHub page
+
+X A link to your project’s GitHub page
+
 Information about you (to the extent you are comfortable)
+
 Attribution for any external resources you used
 
 # You're neat-o!
@@ -136,3 +143,6 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+![MidwayPoint1](https://user-images.githubusercontent.com/123430221/235361879-d1fef647-0eba-473a-a8ce-c74f0584c5f5.jpg)
+![MidwayPoint2](https://user-images.githubusercontent.com/123430221/235361891-39ffe8d1-cd3e-41ac-9ef1-3396b039a822.jpg)
+![MidwayPoint3](https://user-images.githubusercontent.com/123430221/235361897-f979959e-f3f2-454a-872a-f236e967026a.jpg)
