@@ -4,9 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](https://github.com/olincollege/GoGeddesGo).
 
-Go Geddes Go is a vdieo game inspired by the joy as well as trials and tribulations of QEA. 
+Go Geddes Go is a video game inspired by the joy as well as trials and tribulations of QEA. 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
