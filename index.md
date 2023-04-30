@@ -21,7 +21,7 @@ Download links for your project
 
 X A link to your project’s GitHub page
 
-Information about you (to the extent you are comfortable)
+X Information about you (to the extent you are comfortable)
 
 X Attribution for any external resources you used
 
