@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to the GitHub page](https://github.com/olincollege/GoGeddesGo).
 
 Go Geddes Go is a video game inspired by the joy as well as trials and tribulations of QEA. 
@@ -15,7 +13,7 @@ X The big idea or goal of the project
 
 X Unique features of your project
 
-Screenshots or demos of your project
+X Screenshots or demos of your project
 
 Installation instructions (or link to the relevant portion of the README)
 
@@ -25,7 +23,7 @@ X A link to your project’s GitHub page
 
 Information about you (to the extent you are comfortable)
 
-Attribution for any external resources you used
+X Attribution for any external resources you used
 
 # What's the big idea?
 
@@ -60,7 +58,18 @@ and get your grade before he gets to Scotland. Good luck!
 ### Our Final Product
 ![Stage3image](https://user-images.githubusercontent.com/123430221/235363047-342e6476-e93c-44b4-af34-996fa666fc16.jpg)
 
-## External Resources
+# About Us
+
+Daniel, Ava, and Lexi are all first-year college students collaborating on this game.
+
+Daniel is an aspiring Electrical and Computer Engineering major who has been coding for a while. He is honored to be working with such a fantastic group.
+
+Lexi is an aspiring Engineering with Design major and is excited to share this project with the world! She is new to coding and very enthusiastic about what the team has come up with.
+
+Ava is a Mechanical Engineer to-be with a talent for game design. She is also new to coding but has been thrilled with the experience so far.
+
+
+# External Resources
 
 Here is a link to the pygame tutorial that we relied on in order to create Go Geddes Go! 
 [Link to tutorial](https://realpython.com/pygame-a-primer/).
