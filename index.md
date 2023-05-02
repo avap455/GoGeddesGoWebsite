@@ -11,7 +11,7 @@ A README, or a file with information about your project here.
 # You're neat-o!
 
 In this game you are a Neato Robot. Your goal is to traverse the trecherous tabletop to reach the coveted A+ grade.
-But the journey will not be easy. The road is riddled with dangerous monsters called MATLABs that you must avoid.
+But the journey will not be easy. The road is riddled with dangerous monsters that you must avoid.
 The game ends when you reach your goal...or die trying.
 
 Oh, and one last thing. You're not alone. You must race John Geddes on his boat to the finish line 
