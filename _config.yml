@@ -1,6 +1,6 @@
 title: Cayman theme
 description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
@@ -10,3 +10,6 @@ plugins:
 
 title: [Go Geddes Go]
 description: [A QEA-Inspired Video Game]
+
+github:
+  repository_url = https://github.com/olincollege/GoGeddesGo
