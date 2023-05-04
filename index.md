@@ -10,7 +10,7 @@ Here is a link to a video explaining this project! [Video link](https://youtu.be
 
 See our README file here: [README](https://github.com/olincollege/GoGeddesGo/blob/main/README.md)
 
-# You're neat-o!
+# You're Neat-o!
 
 In this game you are a Neato Robot. Your goal is to traverse the trecherous tabletop to reach the coveted A+ grade.
 But the journey will not be easy. The road is riddled with dangerous monsters that you must avoid.
@@ -20,7 +20,7 @@ Oh, and one last thing. You're not alone. You must race John Geddes on his boat 
 and get your grade before he gets to Scotland. Good luck!
 
 
-# What's the big idea?
+# What's the Big Idea?
 
 Quantitative Engineering Analysis, or QEA, is the main engineering math course that first-year students at Olin College have been enrolled in this past year. The goal of our project was to inspire joy in our fellow classmates to help combat QEA-related stress. We aimed to do this by taking the Neato, which is the robot we have been working with in QEA for so long, and putting it into a game for first-year students to play and enjoy. The unique features of this game include racing a John B Geddes boat to the finish line while avoiding small but fast obstacles, being able to control the game using the arrow keys, and a cheerful background design.
 
