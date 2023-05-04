@@ -4,7 +4,7 @@ layout: default
 
 Go Geddes Go is a video game inspired by the joy as well as trials and tribulations of QEA.
 
-Here is a link to a video explaining this project! [Video]([Link to the Game GitHub page](https://github.com/olincollege/GoGeddesGo).)
+Here is a link to a video explaining this project! [Video](https://youtu.be/QN4u55gIZY8).
 
 [Link to the Game GitHub page](https://github.com/olincollege/GoGeddesGo).
 
